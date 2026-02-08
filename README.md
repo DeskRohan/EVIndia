@@ -69,18 +69,6 @@ The project focuses on:
 
 ---
 
-## 📂 Project Structure
-
-EVIndia/
-├── app.py
-├── EV_Adoption_Analysis.ipynb
-├── electric_vehicle_sales_by_state.csv
-├── charging_stations_india.csv
-├── requirements.txt
-└── README.md
-
----
-
 ## ▶️ How to Run Locally
 
 1. Install dependencies:
