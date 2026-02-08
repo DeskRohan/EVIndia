@@ -136,7 +136,7 @@ except Exception as e:
     st.stop()
 
 # 3. Header
-st.title("⚡ EV India")
+st.title("VoltGrid: EV India")
 st.caption("Adoption Trends & Infrastructure Optimization")
 
 # 4. Global Stats
@@ -438,3 +438,4 @@ with tab_forecast:
     
     r2 = model.score(X, y)
     st.caption(f"Model Confidence (R²): {r2:.2f}")
+
