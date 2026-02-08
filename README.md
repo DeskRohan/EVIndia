@@ -65,7 +65,7 @@ The project focuses on:
 - Pandas, NumPy  
 - Scikit-learn  
 - Plotly  
-- Folium (Leaflet Maps)
+- Open Street Map
 
 ---
 
