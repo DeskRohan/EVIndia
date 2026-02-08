@@ -136,7 +136,7 @@ except Exception as e:
     st.stop()
 
 # 3. Header
-st.title("⚡ EV India")
+st.title("VoltGrid: EV Stations India")
 st.caption("Adoption Trends & Infrastructure Optimization")
 
 # 4. Global Stats
@@ -437,4 +437,5 @@ with tab_forecast:
     st.plotly_chart(fig_cast, use_container_width=True)
     
     r2 = model.score(X, y)
+
     st.caption(f"Model Confidence (R²): {r2:.2f}")
